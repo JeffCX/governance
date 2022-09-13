@@ -34,7 +34,7 @@
     "eth-saddle": "^0.1.25",
     "hardhat-typechain": "^0.3.5",
     "jest-diff": "^27.3.1",
-    "jest-junit": "^13.0.0",
+    "jest-junit": "^13.2.0",
     "solidity-coverage": "^0.7.16",
     "typechain": "^5.1.2"
   }
