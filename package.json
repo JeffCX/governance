@@ -27,7 +27,7 @@
     "hardhat-deploy": "0.7.9"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.3.2",
+    "@openzeppelin/contracts": "^4.7.3",
     "@typechain/hardhat": "^2.3.0",
     "chai-as-promised": "^7.1.1",
     "chai-bn": "^0.3.0",
@@ -35,7 +35,7 @@
     "hardhat-typechain": "^0.3.5",
     "jest-diff": "^27.3.1",
     "jest-junit": "^13.0.0",
-    "solidity-coverage": "^0.7.16",
+    "solidity-coverage": "^0.8.0",
     "typechain": "^5.1.2"
   }
 }
