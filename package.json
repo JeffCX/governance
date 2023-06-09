@@ -27,7 +27,7 @@
     "hardhat-deploy": "0.7.9"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.3.2",
+    "@openzeppelin/contracts": "^4.9.1",
     "@typechain/hardhat": "^2.3.0",
     "chai-as-promised": "^7.1.1",
     "chai-bn": "^0.3.0",
